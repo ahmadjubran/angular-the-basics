@@ -13,6 +13,7 @@ specifiers:
   '@angular/platform-browser-dynamic': ^15.2.0
   '@angular/router': ^15.2.0
   '@types/jasmine': ~4.3.0
+  bootstrap: ^3.4.1
   jasmine-core: ~4.5.0
   karma: ~6.4.0
   karma-chrome-launcher: ~3.1.0
@@ -33,6 +34,7 @@ dependencies:
   '@angular/platform-browser': 15.2.7_5iyclyhtx2576p6oziktkmq2pu
   '@angular/platform-browser-dynamic': 15.2.7_tk3jey6i6etx35tf27xkk432re
   '@angular/router': 15.2.7_rieowl7gu2fxim2zribardvuna
+  bootstrap: 3.4.1
   rxjs: 7.8.0
   tslib: 2.5.0
   zone.js: 0.12.0
@@ -2696,6 +2698,11 @@ packages:
   /boolbase/1.0.0:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
     dev: true
+
+  /bootstrap/3.4.1:
+    resolution: {integrity: sha512-yN5oZVmRCwe5aKwzRj6736nSmKDX7pLYwsXiCj/EYmo16hODaBiT4En5btW/jhBF/seV+XMx3aYwukYC3A49DA==}
+    engines: {node: '>=6'}
+    dev: false
 
   /brace-expansion/1.1.11:
     resolution: {integrity: sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==}
